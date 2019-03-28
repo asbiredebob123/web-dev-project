@@ -12,4 +12,3 @@ elif kg_lbs == lbs:
     print(f'você pesa {peso / 2.20} {lbs}')
 
 
-
